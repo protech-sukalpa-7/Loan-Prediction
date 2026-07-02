@@ -182,7 +182,7 @@ Loan_Approval_Prediction
 Clone the repository
 
 ```bash
-git clone https://github.com/protech-sukalpa-7/Loan-Prediction
+https://github.com/protech-sukalpa-7/Loan-Prediction
 ```
 
 Move into the project directory
