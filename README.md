@@ -182,7 +182,7 @@ Loan_Approval_Prediction
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Loan_Approval_Prediction.git
+git clone https://github.com/protech-sukalpa-7/Loan-Prediction
 ```
 
 Move into the project directory
@@ -263,7 +263,7 @@ The modular architecture also enables future enhancements such as advanced ensem
 
 Machine Learning Enthusiast | Data Science | Artificial Intelligence
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/protech-sukalpa-7
 
 ---
 
